@@ -10,7 +10,6 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=Adlexer&color=70A5FD&style=flat-square&label=profile+views)](https://github.com/Adlexer) [![Followers](https://img.shields.io/github/followers/Adlexer?style=flat-square&color=70A5FD&label=Followers)](https://github.com/Adlexer?tab=followers) [![Stars](https://img.shields.io/github/stars/Adlexer?style=flat-square&color=BF91F3&label=Stars)](https://github.com/Adlexer?tab=repositories) [![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAdlexer&query=public_repos&label=repos&color=BF91F3&style=flat-square)](https://github.com/Adlexer?tab=repositories)
 
-</div>
 
 ---
 
@@ -32,11 +31,11 @@ flowchart LR
 
 ## 🏢 Huawei · Open Source
 
-I contribute to the **Ascend** ecosystem at Huawei:
+I contribute to the **Ascend CANN** ecosystem at Huawei:
 
-- 🏛️ Organization — [**gitcode.com/cann**](https://gitcode.com/cann)
-- ⚙️ Core repository — [**cann/ge**](https://gitcode.com/cann/ge) — GE (Graph Engine)
-- 🚀 Projects I own — [**cannbot-skills**](https://gitcode.com/cann/cannbot-skills) · [**pypto**](https://gitcode.com/cann/pypto)
+- 🏛️ Our Organization — [**gitcode.com/cann**](https://gitcode.com/cann)
+- ⚙️ Our Repository — [**cann/ge**](https://gitcode.com/cann/ge) — GE (Graph Engine)
+- 🚀 Projects I Contribude — [**cann/cannbot-skills**](https://gitcode.com/cann/cannbot-skills) · [**cann/pypto**](https://gitcode.com/cann/pypto)
 
 ---
 
@@ -98,4 +97,9 @@ I contribute to the **Ascend** ecosystem at Huawei:
 
 <sub>AI systems, one layer below the model.</sub>
 
+</div>
+
+<div>
+    <img height="52" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/huawei-color.png" />
+    <img height="108" alt="2509D5DA-4FCC-4744-A622-BDE97BC3054F" src="https://github.com/user-attachments/assets/9f50a886-d423-45e7-856a-11d0bb88efcb" />
 </div>
